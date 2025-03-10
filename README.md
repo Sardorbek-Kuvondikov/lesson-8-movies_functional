@@ -1,0 +1,1 @@
+Studentlar uchun movies functionalar
